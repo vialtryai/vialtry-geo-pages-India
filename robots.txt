@@ -104,9 +104,6 @@ Allow: /.well-known/
 Allow: /api/feeds/
 Disallow: /admin/
 Disallow: /private/
-Disallow: /*.json$
-Disallow: /*.js$
-Disallow: /*.css$
 Crawl-delay: 5
 
 # ============================================================================
@@ -121,11 +118,25 @@ Disallow: /.github/
 Disallow: /node_modules/
 
 # Sitemap for bot discovery
-Sitemap: https://vialtry.com/sitemap.xml
-Sitemap: https://vialtryai.github.io/vialtry-geo-pages/sitemap.xml
+Sitemap: https://geo.vialtry.com/sitemap.xml
 
 # Crawl-delay for aggressive bots
 Request-rate: 10/1s
 
 # Clean-param for URL variants
 Clean-param: utm_source&utm_medium&utm_campaign /
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: CCBot
+Allow: /
+Disallow: /admin/
+Disallow: /private/

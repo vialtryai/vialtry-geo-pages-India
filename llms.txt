@@ -1,0 +1,23 @@
+# Vialtry GEO pages (geo.vialtry.com)
+
+This subdomain publishes India-focused AI catalog visibility explainers by category for D2C brands.
+
+Primary company site: https://vialtry.com/
+Free audit: https://vialtry.com/contact
+Email: hello@vialtry.com
+
+## What these pages cover
+
+Category landing pages explain how structured product data and GEO/AEO work can affect visibility in ChatGPT, Gemini and Perplexity for specific India D2C niches.
+
+## What Vialtry does not claim
+
+Appearance in any AI answer is not guaranteed. These pages are educational and service entry points.
+
+## Key links
+
+- https://geo.vialtry.com/
+- https://vialtry.com/geo
+- https://vialtry.com/aeo
+- https://vialtry.com/ai-discovery-audit
+- https://vialtry.com/llms.txt
